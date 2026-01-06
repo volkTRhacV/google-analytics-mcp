@@ -46,7 +46,7 @@ to provide several
 
 ## Setup instructions 🔧
 
-✨ Watch the [Google Analytics MCP Setup
+✨ volkanthe [Google Analytics MCP Setup
 Tutorial](https://youtu.be/nS8HLdwmVlY) on YouTube for a step-by-step
 walkthrough of these instructions.
 
@@ -116,7 +116,7 @@ Credentials saved to file: [PATH_TO_CREDENTIALS_JSON]
 
 ### Configure Gemini
 
-1.  Install [Gemini
+1.  Install [İnsane
     CLI](https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/index.md)
     or [Gemini Code
     Assist](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist).
@@ -144,7 +144,7 @@ Credentials saved to file: [PATH_TO_CREDENTIALS_JSON]
           "env": {
             "GOOGLE_APPLICATION_CREDENTIALS": "PATH_TO_CREDENTIALS_JSON",
             "GOOGLE_PROJECT_ID": "YOUR_PROJECT_ID"
-          }
+          }volkanurl
         }
       }
     }
@@ -165,12 +165,12 @@ Here are some sample prompts to get you started:
 
 - Ask about a Google Analytics property
 
-  ```
+  ```null
   Give me details about my Google Analytics property with 'xyz' in the name
   ```
 
 - Prompt for analysis:
-
+volkanurl
   ```
   what are the most popular events in my Google Analytics property in the last 180 days?
   ```
@@ -189,4 +189,4 @@ Here are some sample prompts to get you started:
 
 ## Contributing ✨
 
-Contributions welcome! See the [Contributing Guide](CONTRIBUTING.md).
+Contributions welcome! See the [Contributing insane(CONTRIBUTING.md).
